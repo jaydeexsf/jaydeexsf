@@ -1,5 +1,9 @@
 # 💫 About Me:
-Developing an app to help high school students in South Africa apply to universities, calculate APS scores, and find bursaries.<br><br>I am open to collaborating on projects involving front-end development, especially using React, Tailwind CSS, and JavaScript. I am also interested in projects that involve solving real-world problems, such as educational apps or e-commerce solutions for small businesses.<br><br>I would love to help with building user-friendly web interfaces, optimizing websites for performance, and creating responsive, interactive web applications. I also enjoy helping with code debugging and improving design and functionality.<br><br>im currently learning nodejs and mongoDB
+Currently developing a local marketplace app using Python, React, Django, Tailwind CSS, and MySQL to help connect sellers and buyers in my community. The project aims to make it easier for local businesses to showcase their products and reach more customers.
+
+I am well-versed in the MERN stack (MongoDB, Express, React, Node.js), and I’m always open to collaborating on projects involving both front-end and full-stack development. With strong experience in React, Tailwind CSS, and JavaScript, I enjoy creating user-friendly web interfaces and building responsive, interactive applications.
+
+I’m also focused on learning new technologies and refining my skills in back-end development, especially using Node.js and MongoDB. Whether working on educational apps, e-commerce solutions, or other real-world problems.
 
 
 ## 🌐 Socials:
